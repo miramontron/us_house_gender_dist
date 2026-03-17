@@ -60,3 +60,6 @@ pip install -r requirements.txt
 3. To deactivate:
 
 ```deactivate```
+
+## Colophon
+Trans rights are human rights. The male-female gender binary presented do not represent the views of the author, but the dataset as reported. 
