@@ -16,16 +16,13 @@ This project examines the gender distribution of members of the U.S. House of Re
 
     * What is the number of the most women from the Democrat party serving in the House at one time?
     * What is the number of the most women from the Republican party serving in the House at one time?
-
-* What has been the breakdown of the number of men and women from both parties over the last ten years?
-
-    * What has been the breakdown of women from the Democrats over the last ten years?
-    * What has been the breakdown of women from the Republicans over the last ten years?
     
 * How has the number of women serving in the House trended overall?
 
     * How has the number of women from the Democrat party serving in the House trended?
     * How has the number of women from the Republican party serving in the House trended?
+
+* What is the gender breakdown of the last House session?    
 
 ## Data
 * [U.S. House of Reps Gender/Party Distribution data](https://www.kaggle.com/datasets/adammkimm/u-s-house-of-reps-genderparty-distribution/)
